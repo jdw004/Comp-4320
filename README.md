@@ -5,4 +5,3 @@
 
 🔹 Project 1 - UDP Client Server<br />
 🔸 Project 2 - TCP Client Server<br />
-🔺 Project 3 - TBD<br />
